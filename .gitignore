@@ -1,2 +1,4 @@
 .env
 messages/
+__pycache__/
+config/
